@@ -2,6 +2,8 @@
 
 This is the Gilded Rose kata in JavaScript with Jest
 
+Original repository _`https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/master/js-jest`_ 
+
 ## Getting started
 
 Install dependencies
